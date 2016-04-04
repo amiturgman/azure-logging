@@ -1,0 +1,29 @@
+{
+  "name": "azure-logging",
+  "description": "Logging module for azure",
+  "version": "0.3.2",
+  "author": {
+    "name": "Elad Ben-Israel",
+    "email": "elad.benisrael@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Ami Turgman",
+      "email": "ami.turgman@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amiturgman/azure-logging.git"
+  },
+  "main": "main",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.0-rc.2",
+    "azure-storage": "^0.10.0",
+    "base32": "0.0.6",
+    "colors": "^1.1.2",
+    "validator": "^5.1.0",
+    "wordwrap": "^1.0.0"
+  }
+}
